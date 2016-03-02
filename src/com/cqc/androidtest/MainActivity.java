@@ -17,9 +17,9 @@ import android.view.View.OnClickListener;
 import android.widget.ImageView;
 
 public class MainActivity extends Activity {
-  
+         
 	private ViewPager pager;
-
+    private String tata = "dsaw";
 	private List<Integer> list;
 	private ImageView image;
 	private TestAdapter adapter;
